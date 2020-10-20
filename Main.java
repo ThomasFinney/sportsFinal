@@ -91,15 +91,6 @@ if (saftey){
 if (tightEnd){
  System.out.println("You could be a good tightEnd");
 }
- 
- 
-
- 
- 
- 
- 
- 
- 
 // there are 11 questions, 4 are int quetions
  }
 }
